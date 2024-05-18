@@ -4,13 +4,6 @@
 
 ## Contact
 - 이름: 전유진(UDI)
-- 이메일 : honran.dev.94@gmail.com
-
-## Channel
-- 깃허브 : https://github.com/UDI94
-- 블로그 : https://tea94.tistory.com
-  
-
 
 ## Education & Career
 
