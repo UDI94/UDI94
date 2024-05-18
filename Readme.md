@@ -1,8 +1,4 @@
-# iOS개발자 전유진 이력서
-
-<img src="https://github.com/APP-iOS4/APP-iOS4.github.io/assets/145957641/c8121eb7-8793-459f-ab2f-9338020c4dae" alt ="UDI_memoji" width= auto>
-
---- 
+# iOS개발자 UDI
 
 ## Contact
 - 이름: 전유진(UDI)
