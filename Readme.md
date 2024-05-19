@@ -1,74 +1,36 @@
 ## Introduce
-사업이나 서비스 기획으로 사람들의 의견을 듣고 협업하는 일을 주로 해왔습니다.</br>
-다른 사람들의 이야기에 귀기울이고 많은 사람들과 협업하는 과정을 직접 손끝으로 만들어보고 싶어서 개발자를 꿈꾸게 되었습니다.</br>
+안녕하세요. 호기심이 넘치는 iOS 개발자 전유진입니다.</br>
+한번 의문을 가진 점에 대해서는 “ 왜? “ 그런지에 대한 의문을 늘 가지고 고민하는 개발자입니다.</br>
+서비스 기획자의 경력이 바탕이 되어 개발팀외의 디자이너, 사업개발팀 등의 여러부서와의 업무를 협업하는 데 있어 원활한 커뮤니케이션 능력을 가지고 있습니다.</br>
+
+## Project
+### [BookBillionare(swiftUI - Prototype)](https://github.com/UDI94/BookBillionaire) - 배포예정중 : 프로토타입오픈
+<img width="210" alt="스크린샷 2024-05-19 오후 9 28 50" src="https://github.com/UDI94/UDI94/assets/145957641/9bb83e9b-0c58-487f-9a6c-efdd1ca4f51d">
+<img width="208" alt="스크린샷 2024-05-19 오후 9 29 03" src="https://github.com/UDI94/UDI94/assets/145957641/0391993f-b99d-43b6-b4cb-3b93b3a240a6">
+<img width="210" alt="스크린샷 2024-05-19 오후 9 29 22" src="https://github.com/UDI94/UDI94/assets/145957641/3a0aaeff-1ec1-455f-b6a3-770827929373">
+<img width="210" alt="스크린샷 2024-05-19 오후 9 29 30" src="https://github.com/UDI94/UDI94/assets/145957641/636a6d91-174b-488e-a49d-91a6ffba37d5">
+</br>
+</br>
+
+| [TravelMaker(swiftUI - Prototype)](https://github.com/UDI94/LikeLion-SwiftUI-Prototype-TravelMaker) | [맛집에서 만나(UIkit - prototype)](https://github.com/UDI94/UIKit-Prototype-LAB2) |
+|:---:|:---:|
+|<img width="758" alt="image" src="https://github.com/UDI94/UDI94/assets/145957641/94ec18b1-28fd-48ac-ac60-3ab4b1063a62">|<img width="758" alt="image" src="https://github.com/UDI94/UDI94/assets/145957641/712d264b-2359-4f79-b2cd-96193130adb6">|
+
 
 ## Education & Career
+### 개발교육과정
+__멋쟁이 사자처럼  iOS 앱개발 과정__
+__야곰 아카데미 [Swift] 스위프트 코드 스타터 캠프__
+__42 Seoul 개발자 교육과정__
 
-### Career
+### 기타 경력
 __(주)시솔지주 기업부설연구소 대리__
-- 2021.05 ~ 2023.08
 - 물류통관 SaaS 서비스 기획
 - NFC 솔루션 기반 애플리케이션 기획 및 UI / UX 기획
 - 한아시안 정부 사업 EV 자동차 충전용 애플리케이션 사업 기획 및 서비스 기획
 
 __나린하나__
-- 2018.03 ~ 2020.09
 - 군장대학교 산학협력단 IT 보조강사
 - Wix 홈페이지 구현
 - 세무서 사무실 내부 애플리케이션 기획 및 수주
 - QR 바코드 스캐너 출시 (AOS)
-
-### Education
-__멋쟁이 사자처럼  iOS 앱개발 과정__
-- 2023.11 ~
-- swift문법 및 UIKit, SwiftUI등 여러 방법적 측면에서 앱을 만드는 법을 공부하고 협업하여 앱을 배포하는 경험까지 할 예정입니다.
-
-__야곰 아카데미 [Swift] 스위프트 코드 스타터 캠프__
-- 2023.09 ~ 2023.10
-- swift의 기본 문법을 학습하고 내부 코드를 구현할 수 있었습니다.
-
-__42 Seoul 개발자 교육과정__
-- 2020.07 ~ 2022.03
-- 기본적인 CS에 대한 지식을 스스로 학습하는 자기 주도적 학습을 할 수 있었습니다.
-- CS 자료구조, 컴퓨터구조, 운영체제등 기본적인 CS학습 및 C언어, C++ 언어 학습을 진행했습니다.
-
-__정규 대학과정__
-- 2013.03 ~ 2017.02
-- 전북대학교 전자공학부 정보통신학과 주전공
-- 전북대학교 컴퓨터공학부 부전공
-
-__중국어 어학연수 과정__
-- 2017.03 ~ 2018.03
-- 중국어 어학연수
-
-
-## Project
-- [맛집에서 만나(프로토타입)](https://github.com/APP-iOS4/UIKit-Prototype-LAB2)
-
-
-##  Skill
-- SwiftUI : 화면 구현 가능합니다.
-- UIKit : 스토리보드, 코드를 통해 개발 가능합니다.
-- Swift : Swift의 기본 문법을 이해하고 사용합니다.
-- MVC/MVVM : MVC 패턴을 활용하여 앱을 만들어본 경험이 있습니다.
-- Framework And Library : swiftData를 활용하여 로컬 데이터에 대해 CRUD를 구현할 수 있습니다.
-- Git&Github : 깃허브를 활용한 앱 버전 관리와 다른사람들과 협업한 경험이 있습니다.
-- 문서 작업툴 : MS Office, Excel, PowerPoint, Hwp
-- UI툴 : Figma
-- 협업툴 : Notion, JIRA, Confluence, Slack
-
-## 기타내역
-### 자격증
-- 코딩지도사 자격증 2020.03
-- 정보처리기사 자격증 2019.11
-- 워드프로세드 자격증 2014.08
-- GTQ 그래픽기술자격 1급 2014.03
-
-### 서포터즈
-- 아부다비 자이드 페스티벌 참가(대외협력) 2018.12
-- 중국 베이징 대사관 국경의 날 행사 참가(대외협력) 2018.10
-- 그리스 크레타문화제 참가(대외협력) 2018.05
-- 캐나다 Wearable Art Vancouver 참가(대외협력) 2015.08
-
-### 별도 교육
-- 4차 산업의 떠오르는 신분야 B2B 테크니컬 라이팅 교육수료 2022.05
