@@ -5,10 +5,10 @@
 
 ## Project
 ### [BookBillionare(swiftUI - Prototype)](https://github.com/UDI94/BookBillionaire) - 배포예정중 : 프로토타입오픈
-<img width="100" alt="스크린샷 2024-05-19 오후 9 28 50" src="https://github.com/UDI94/UDI94/assets/145957641/9bb83e9b-0c58-487f-9a6c-efdd1ca4f51d">
-<img width="98" alt="스크린샷 2024-05-19 오후 9 29 03" src="https://github.com/UDI94/UDI94/assets/145957641/0391993f-b99d-43b6-b4cb-3b93b3a240a6">
-<img width="100" alt="스크린샷 2024-05-19 오후 9 29 22" src="https://github.com/UDI94/UDI94/assets/145957641/3a0aaeff-1ec1-455f-b6a3-770827929373">
-<img width="100" alt="스크린샷 2024-05-19 오후 9 29 30" src="https://github.com/UDI94/UDI94/assets/145957641/636a6d91-174b-488e-a49d-91a6ffba37d5">
+<img width="150" alt="스크린샷 2024-05-19 오후 9 28 50" src="https://github.com/UDI94/UDI94/assets/145957641/9bb83e9b-0c58-487f-9a6c-efdd1ca4f51d">
+<img width="148" alt="스크린샷 2024-05-19 오후 9 29 03" src="https://github.com/UDI94/UDI94/assets/145957641/0391993f-b99d-43b6-b4cb-3b93b3a240a6">
+<img width="150" alt="스크린샷 2024-05-19 오후 9 29 22" src="https://github.com/UDI94/UDI94/assets/145957641/3a0aaeff-1ec1-455f-b6a3-770827929373">
+<img width="150" alt="스크린샷 2024-05-19 오후 9 29 30" src="https://github.com/UDI94/UDI94/assets/145957641/636a6d91-174b-488e-a49d-91a6ffba37d5">
 </br>
 </br>
 
